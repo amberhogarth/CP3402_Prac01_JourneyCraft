@@ -30,6 +30,10 @@ body {
     flex-direction: column;
   }
 
+  .content {
+    flex: 1;
+  }
+
 ul {
   list-style-type: none; /* Remove bullet points */
   padding: 0;
